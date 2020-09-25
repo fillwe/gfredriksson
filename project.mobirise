@@ -47,7 +47,8 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": true,
     "favicon": "",
-    "": "on"
+    "": "on",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
